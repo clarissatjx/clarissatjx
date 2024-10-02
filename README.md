@@ -19,7 +19,8 @@ i'm a **year 2 computer science undergraduate** at the **National University of 
 
 ### ⚡ fun facts~
 - i have my own **YouTube channel** where I share **study vlogs** called **Hydrchloric**.
-- i love designing calm, **zen-like UIs**! i love minimalism and muted colours
+- i love designing calm, **zen-like UIs**
+- i lean towards minimalism and muted colours
 
 ### 📫 how to reach me!
 - [LinkedIn](https://www.linkedin.com/in/clarissateo)  

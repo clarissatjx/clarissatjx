@@ -1,11 +1,11 @@
 # hi! i'm clarissa 🥰
 
-i'm a **year 2 computer science undergraduate** at the **National University of Singapore (NUS)**, with a passion for **AI, machine learning,** and **UI/UX design**. I enjoy exploring the intersection of **science**, particularly **biology** and **chemistry**, and technology to solve real-world problems.
+i'm a **year 3 computer science undergraduate** at the **National University of Singapore (NUS)**, with a passion for **AI, machine learning,** and **UI/UX design**. I enjoy exploring the intersection of **science**, particularly **biology** and **chemistry**, and technology to solve real-world problems. I've also developed an interest in **fintech** recently!
 
 ### 🔭 current focus
 - **studying** 😭😭😭
 - exploring more **web development** projects.
-- **teaching** secondary school and jc chemistry!
+- **on exchange** in europe!
 
 ### 🌱 im learning...
 - advanced **Java programming** and **JavaFX** for desktop applications in my cs2103t course~
@@ -14,7 +14,7 @@ i'm a **year 2 computer science undergraduate** at the **National University of 
 
 ### 📚 academic background
 - strong foundation in **biology** and **chemistry** (H3 Chemistry).
-- proficient in **Java**, **Javascript**, and **Python**, currently still learning **C**
+- proficient in **Java**, **Typescript**, **Python**, **C**, **SQL**
 - experience with **version control** using Git.
 
 ### ⚡ fun facts~

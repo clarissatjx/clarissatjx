@@ -12,13 +12,6 @@ currently juggling lectures, an internship, and whatever side project has my att
 - **telegram bots** — criminally underrated and i will die on this hill
 - **whatever else catches my eye** — if it seems fun to build, i'll probably try it
 
-## stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarissatjx&show_icons=true&hide_border=true&count_private=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarissatjx&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-
 ## find me
 
 - portfolio: [clarissateo.com](https://www.clarissateo.com)

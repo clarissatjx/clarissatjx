@@ -1,27 +1,25 @@
-# hi! i'm clarissa 🥰
+# hi, i'm clarissa
 
-i'm a **year 3 computer science undergraduate** at the **National University of Singapore (NUS)**, with a passion for **AI, machine learning,** and **UI/UX design**. I enjoy exploring the intersection of **science**, particularly **biology** and **chemistry**, and technology to solve real-world problems. I've also developed an interest in **fintech** recently!
+y4 cs undergrad at NUS • swe intern @ tiktok • builder of random things
 
-### 🔭 current focus
-- **studying** 😭😭😭
-- exploring more **web development** projects.
-- **on exchange** in europe!
+---
 
-### 🌱 im learning...
-- advanced **Java programming** and **JavaFX** for desktop applications in my cs2103t course~
-- diving deeper into **computer organisation** in cs2100.
-- enhancing my skills in **UI/UX design**!
+currently juggling lectures, an internship, and whatever side project has my attention this week. i like making things that are actually useful — or at least interesting enough to justify the hours spent on them. i also travel whenever i can.
 
-### 📚 academic background
-- strong foundation in **biology** and **chemistry** (H3 Chemistry).
-- proficient in **Java**, **Typescript**, **Python**, **C**, **SQL**
-- experience with **version control** using Git.
+## what i work on
 
-### ⚡ fun facts~
-- i have my own **YouTube channel** where I share **study vlogs** called **Hydrchloric**.
-- i love designing calm, **zen-like UIs**
-- i lean towards minimalism and muted colours
+- **web apps** — full-stack when i can, frontend when i must, backend when i want to
+- **telegram bots** — criminally underrated and i will die on this hill
+- **whatever else catches my eye** — if it seems fun to build, i'll probably try it
 
-### 📫 how to reach me!
-- [LinkedIn](https://www.linkedin.com/in/clarissateo)  
-- [Email](mailto:clarissateojx@example.com)
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clarissatjx&show_icons=true&hide_border=true&count_private=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarissatjx&layout=compact&hide_border=true&theme=default" height="150"/>
+</p>
+
+## find me
+
+- portfolio: [clarissateo.com](https://www.clarissateo.com)
+- linkedin: [clarissateo](https://linkedin.com/in/clarissateo)
